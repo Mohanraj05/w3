@@ -1,0 +1,147 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: white;
+}
+#container{
+    width:70%;
+    
+    margin:0px auto;
+}
+#header{
+    height: 80px;
+    background-color: white;
+}
+#header img{
+    height: 80px;
+    width: 140px;
+}
+#header ul{
+    float: right;
+    margin-top: 33px;
+}
+#header ul li{
+    display:inline;
+    margin-right:25px;
+    
+}
+#header ul li a{
+    text-decoration: none;
+    color: grey;
+    font-size: 18px;
+     
+}
+.banner img{
+    width: 100%;
+    padding-bottom: 20px;
+    height: 536px;
+}
+#content1
+{
+    width: 32%;
+    height: 350px;
+    background-color: #f86900;
+    float: left;
+    margin-right: 2%;
+}
+#content2
+{
+    width: 32%;
+    height: 350px;
+    background-color: #ffc502;
+    float: left;
+}
+#content3
+{
+    width: 32%;
+    height: 350px;
+    background-color: #A2C511;
+    float:right;
+}
+.heading {
+    color: white;
+  
+    font-size: 28px;
+    margin: 20px;
+}
+.para1{
+    color: white;
+    margin-right: 8px;
+    margin-left: 20px;
+    
+}
+.more button
+{
+    padding:8px;
+    margin: 20px;
+  
+}
+#bottom1{
+    clear: both;
+    margin-top: 20px;
+    width: 60%;
+    height: 300px;
+    float: left;
+    
+}#bottom2{
+    margin-top: 20px;
+    width: 40%;
+    height: 300px;
+    float: right;
+}
+#bottom1 h2{
+    color: black;
+    margin: 20px;
+}
+
+#bottom1 p{
+    margin-left:20px;
+    margin-right: 8px;
+    color: black;
+}
+#bottom1 a{
+    color: orange;
+    margin: 20px;
+    margin-top: 20px;
+    
+}
+#bottom2 h2{
+    color: black;
+    margin: 20px;
+}
+#bottom2 p{
+    margin-left:20px;
+    margin-right: 8px;
+    color: black;
+}
+#footer{
+     width: 100%;
+    height: 80px;
+    background-color: black;
+    clear: both;
+}
+#footer ul{
+    margin-left: 20px;
+    float: left;
+    margin-top: 30px;
+}
+#footer ul li{
+    display:inline;
+    margin-right:25px;
+    
+}
+#footer ul li a{
+    text-decoration: none;
+    color: grey;
+    font-size: 18px;
+     
+}
+#footer p{
+    color: white;
+    float: right;
+    margin-right: 20px;
+    margin-top: 30px;
+}
